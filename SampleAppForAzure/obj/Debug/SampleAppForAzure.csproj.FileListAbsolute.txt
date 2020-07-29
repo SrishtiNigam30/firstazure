@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\SampleAppForAzure\SampleAppForAzure\bin\Debug\SampleAppForAzure.exe.config
+C:\Users\HP\source\repos\SampleAppForAzure\SampleAppForAzure\bin\Debug\SampleAppForAzure.exe
+C:\Users\HP\source\repos\SampleAppForAzure\SampleAppForAzure\bin\Debug\SampleAppForAzure.pdb
+C:\Users\HP\source\repos\SampleAppForAzure\SampleAppForAzure\obj\Debug\SampleAppForAzure.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SampleAppForAzure\SampleAppForAzure\obj\Debug\SampleAppForAzure.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SampleAppForAzure\SampleAppForAzure\obj\Debug\SampleAppForAzure.exe
+C:\Users\HP\source\repos\SampleAppForAzure\SampleAppForAzure\obj\Debug\SampleAppForAzure.pdb
